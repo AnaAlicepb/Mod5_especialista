@@ -1,0 +1,4 @@
+Sim, seria possível entender o código sem documentação, pois os métodos são 
+simples e os nomes claros. No entanto, a documentação é essencial para manutenção,
+ entendimento por terceiros e para esclarecer comportamentos específicos, 
+ como o tratamento de exceções na divisão.
